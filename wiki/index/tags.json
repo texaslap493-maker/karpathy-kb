@@ -1,0 +1,186 @@
+{
+  "深度学习框架": [
+    "concepts\\Caffe.md",
+    "concepts\\Chainer.md",
+    "concepts\\MXNet.md",
+    "concepts\\PaddlePaddle.md",
+    "concepts\\PyTorch.md",
+    "concepts\\TensorFlow.md",
+    "concepts\\Theano.md"
+  ],
+  "计算机视觉": [
+    "concepts\\Caffe.md",
+    "concepts\\卷积神经网络.md"
+  ],
+  "动态计算图": [
+    "concepts\\Chainer.md"
+  ],
+  "亚马逊": [
+    "concepts\\MXNet.md"
+  ],
+  "百度": [
+    "concepts\\PaddlePaddle.md"
+  ],
+  "Facebook": [
+    "concepts\\PyTorch.md"
+  ],
+  "Google": [
+    "concepts\\TensorFlow.md"
+  ],
+  "蒙特利尔大学": [
+    "concepts\\Theano.md"
+  ],
+  "深度学习": [
+    "concepts\\Transformer.md",
+    "concepts\\人工智能.md",
+    "concepts\\信息论.md",
+    "concepts\\前馈神经网络.md",
+    "concepts\\卷积神经网络.md",
+    "concepts\\变分自编码器.md",
+    "concepts\\序列生成模型.md",
+    "concepts\\循环神经网络.md",
+    "concepts\\微积分.md",
+    "concepts\\数学优化.md",
+    "concepts\\概率论.md",
+    "concepts\\注意力机制.md",
+    "concepts\\深度学习.md",
+    "concepts\\深度学习框架.md",
+    "concepts\\深度生成模型.md",
+    "concepts\\深度神经网络.md",
+    "concepts\\特征提取.md",
+    "concepts\\生成对抗网络.md",
+    "concepts\\端到端学习.md",
+    "concepts\\线性代数.md",
+    "concepts\\自动微分.md",
+    "concepts\\自注意力.md",
+    "concepts\\表示学习.md",
+    "concepts\\贡献度分配问题.md",
+    "people\\Geoffrey_Hinton.md",
+    "people\\Yann_LeCun.md",
+    "people\\Yoshua_Bengio.md"
+  ],
+  "注意力机制": [
+    "concepts\\Transformer.md"
+  ],
+  "AI": [
+    "concepts\\人工智能.md"
+  ],
+  "机器学习": [
+    "concepts\\人工智能.md",
+    "concepts\\人工神经网络.md",
+    "concepts\\前馈神经网络.md",
+    "concepts\\机器学习.md",
+    "concepts\\深度学习.md",
+    "concepts\\特征提取.md"
+  ],
+  "人工智能": [
+    "concepts\\人工神经网络.md",
+    "concepts\\机器学习.md",
+    "concepts\\深度神经网络.md",
+    "people\\Geoffrey_Hinton.md"
+  ],
+  "神经科学": [
+    "concepts\\人脑神经网络.md",
+    "concepts\\动物神经网.md",
+    "concepts\\生物神经网络.md",
+    "concepts\\神经回路.md"
+  ],
+  "认知科学": [
+    "concepts\\人脑神经网络.md",
+    "concepts\\生物神经网络.md",
+    "concepts\\神经回路.md"
+  ],
+  "数学": [
+    "concepts\\信息论.md",
+    "concepts\\微积分.md",
+    "concepts\\数学优化.md",
+    "concepts\\概率论.md",
+    "concepts\\线性代数.md"
+  ],
+  "生物学": [
+    "concepts\\动物神经网.md"
+  ],
+  "生成模型": [
+    "concepts\\变分自编码器.md",
+    "concepts\\深度生成模型.md",
+    "concepts\\生成对抗网络.md"
+  ],
+  "序列模型": [
+    "concepts\\序列生成模型.md"
+  ],
+  "自然语言处理": [
+    "concepts\\循环神经网络.md"
+  ],
+  "数据挖掘": [
+    "concepts\\机器学习.md"
+  ],
+  "Transformer": [
+    "concepts\\注意力机制.md",
+    "concepts\\自注意力.md",
+    "insights\\长序列任务中Transformer与RNN的性能对比.md"
+  ],
+  "神经网络": [
+    "concepts\\深度学习.md",
+    "concepts\\贡献度分配问题.md"
+  ],
+  "工具": [
+    "concepts\\深度学习框架.md"
+  ],
+  "生物神经网络": [
+    "concepts\\神经网络.md"
+  ],
+  "人工神经网络": [
+    "concepts\\神经网络.md"
+  ],
+  "卷积神经网络": [
+    "concepts\\神经网络.md",
+    "people\\Yann_LeCun.md"
+  ],
+  "书籍": [
+    "concepts\\神经网络与深度学习.md"
+  ],
+  "邱锡鹏": [
+    "concepts\\神经网络与深度学习.md"
+  ],
+  "端到端学习": [
+    "concepts\\端到端学习.md"
+  ],
+  "模型训练": [
+    "concepts\\端到端学习.md"
+  ],
+  "数学优化": [
+    "concepts\\自动微分.md"
+  ],
+  "表示学习": [
+    "concepts\\表示学习.md",
+    "people\\Yoshua_Bengio.md"
+  ],
+  "特征提取": [
+    "concepts\\表示学习.md"
+  ],
+  "性能对比": [
+    "insights\\长序列任务中Transformer与RNN的性能对比.md"
+  ],
+  "长序列处理": [
+    "insights\\长序列任务中Transformer与RNN的性能对比.md"
+  ],
+  "RNN": [
+    "insights\\长序列任务中Transformer与RNN的性能对比.md"
+  ],
+  "图灵奖": [
+    "people\\Geoffrey_Hinton.md",
+    "people\\Yann_LeCun.md",
+    "people\\Yoshua_Bengio.md"
+  ],
+  "教授": [
+    "people\\吴立德.md",
+    "people\\邱锡鹏.md"
+  ],
+  "复旦大学": [
+    "people\\吴立德.md",
+    "people\\邱锡鹏.md"
+  ],
+  "神经网络与深度学习": [
+    "people\\邱锡鹏.md"
+  ]
+}

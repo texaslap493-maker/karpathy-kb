@@ -1,0 +1,16 @@
+# --- 核心大模型调用 ---
+openai>=1.0.0          # LLM 交互 SDK，兼容 Kimi/DeepSeek/GPT 等 API
+
+# --- 数据摄入层 Ingest ---
+pymupdf                # 原始资料处理：高效解析 PDF 文档并提取文本
+requests               # 原始资料处理：网页内容抓取
+beautifulsoup4         # 网页清洗：解析 HTML 结构
+markdownify            # 格式转换：将 HTML/网页纯净化为 Markdown 格式
+
+# --- 导出层 Export ---
+markdown               # Markdown → HTML 转换
+weasyprint             # HTML → PDF 转换（可选，需要额外安装）
+
+# --- 系统工具与 UI ---
+python-dotenv          # 安全管理：从 .env 文件加载 API Key，防止密钥泄露
+gradio                 # 可视化演示：快速搭建长上下文问答的 Web 交互界面
